@@ -1,2 +1,2 @@
-# luto-lights.github.io
-Page of Leuchtenparadies-LUTO
+# schoenr79.github.io
+GitHub Pages Test
